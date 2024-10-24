@@ -1,4 +1,4 @@
-def readGenome(filename):
+def readFasta(filename):
     genome = ''
     with open(filename, 'r') as f:
         for line in f:
