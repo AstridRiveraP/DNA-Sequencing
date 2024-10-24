@@ -1,6 +1,4 @@
 .ipynb_checkpoints
-*.fastq
-*.fastq.1
-*.fa
-*.fa.1
+resources/
 ads1-notebooks/
+__pycache__/
