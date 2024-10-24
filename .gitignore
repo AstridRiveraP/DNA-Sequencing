@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*.fastq
+*.fastq.1
+*.fa
+*.fa.1
+ads1-notebooks/
